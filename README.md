@@ -1,7 +1,7 @@
 # fortigate_wireless_auth
 Fortigate firewall wireless authentication template
-/*因預設參數問題，此檔案僅適用於Fortigate防火牆*/
-/*若要於其他平台認證，請自行替換圖片與帳號密碼之參數*/
+因預設參數問題，此檔案僅適用於Fortigate防火牆
+若要於其他平台認證，請自行替換圖片與帳號密碼之參數
 
 設定說明：
 1. 請先選定貴校所需的認證類型，只有校內或教育局Radius認證請使用「SigninFlatBlue」，若需要結合Google認證請選用「GoogleSignin」。
